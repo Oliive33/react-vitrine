@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-vitrine/static/css/main.db632517.chunk.css",
+    "main.js": "/react-vitrine/static/js/main.65f55ec5.chunk.js",
+    "main.js.map": "/react-vitrine/static/js/main.65f55ec5.chunk.js.map",
+    "runtime-main.js": "/react-vitrine/static/js/runtime-main.35ee2da7.js",
+    "runtime-main.js.map": "/react-vitrine/static/js/runtime-main.35ee2da7.js.map",
+    "static/js/2.5a4464cd.chunk.js": "/react-vitrine/static/js/2.5a4464cd.chunk.js",
+    "static/js/2.5a4464cd.chunk.js.map": "/react-vitrine/static/js/2.5a4464cd.chunk.js.map",
+    "index.html": "/react-vitrine/index.html",
+    "precache-manifest.af2080b8901e4c837074627c4e3abd5a.js": "/react-vitrine/precache-manifest.af2080b8901e4c837074627c4e3abd5a.js",
+    "service-worker.js": "/react-vitrine/service-worker.js",
+    "static/css/main.db632517.chunk.css.map": "/react-vitrine/static/css/main.db632517.chunk.css.map",
+    "static/js/2.5a4464cd.chunk.js.LICENSE.txt": "/react-vitrine/static/js/2.5a4464cd.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/react-vitrine/static/media/Questrial-Regular.37c8a1aa.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35ee2da7.js",
+    "static/js/2.5a4464cd.chunk.js",
+    "static/css/main.db632517.chunk.css",
+    "static/js/main.65f55ec5.chunk.js"
+  ]
+}
